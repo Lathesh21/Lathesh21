@@ -32,6 +32,8 @@ print("Key:", key)
 
 start=time.time() 
 
+hi bngnm 
+
 res=linearSearch(a,key) 
 
 end=time.time() 
